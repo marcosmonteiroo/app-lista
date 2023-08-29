@@ -180,7 +180,7 @@ const styles = StyleSheet.create({
     color: "#FDFCFE",
     fontSize: 14,
     textAlign: "center",
-    marginTop: 28,
+    marginTop: 30,
   },
 
   part2: {
